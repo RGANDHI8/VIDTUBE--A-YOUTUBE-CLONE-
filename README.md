@@ -8,4 +8,3 @@ Some highlights for the VidTube (YouTube clone) project:
 - Incorporated features like video listings, search functionality, and user interactions, replicating core elements of the YouTube experience.
 - Conducted **user data analysis** to understand viewing patterns, optimizing recommendation algorithms for improved relevance and user satisfaction.
 
-These points emphasize your front-end development skills and your understanding of user personalization and engagement strategies.
